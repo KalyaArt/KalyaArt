@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kalyaart" target="blank"><img src="https://img.shields.io/twitter/follow/kalyaart?logo=twitter&style=for-the-badge" alt="kalyaart" /></a> </p>
 
-- 🔭 I’m currently working on [Exportiva.co](https://exportiva.co)
-
+- 🔭 I’m currently working on botify.net. 
 - 🌱 I’m currently learning **React, Javascript**
 
 - 👯 I’m looking to collaborate on **Interesting projects**
